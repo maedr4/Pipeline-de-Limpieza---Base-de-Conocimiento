@@ -1,0 +1,7 @@
+Empaquetado para que el programa abra sin pip install.
+
+customtkinter 6.0.0   MIT
+darkdetect 0.8.0      BSD-3-Clause
+packaging 26.3        Apache-2.0 y BSD
+
+Licencias en licencias/.
